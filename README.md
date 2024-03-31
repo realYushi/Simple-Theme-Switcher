@@ -27,3 +27,4 @@ cd simple-theme-switcher
 ```
 
 Open the index.html file in your web browser to view the project.
+Or you can check it on https://realyushi.github.io/Simple-Theme-Switcher/
